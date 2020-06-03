@@ -1,6 +1,7 @@
 # Handwritten-Text-Recognition-using-Tensorflow-in-Jupyter-Notebook
 This Repository shows the workdone of Harald Scheidl in Jupyter Notebook. 
 Some documents are directly imported from githubharald/SimpleHTR a github account of Herald Scheidl
+(https://github.com/githubharald/SimpleHTR)
 ## Data Set:
 Get IAM dataset
 1. Register at: http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
@@ -11,14 +12,15 @@ Get IAM dataset
 6. Put content (directories a01, a02, ...) of words.tgz into subdir words
 7. Run checkDirs.py for a rough check on the files
 Check if dir structure looks like this:
-data
---test.png
---words.txt
---words
-----a01
-------a01-000u
---------a01-000u-00-00.png
---------...
-------...
-----a02
-----...
+
+                data
+                --test.png
+                --words.txt
+                --words
+                ----a01
+                ------a01-000u
+                --------a01-000u-00-00.png
+                --------...
+                ------...
+                ----a02
+                ----...
