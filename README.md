@@ -2,7 +2,7 @@
 This Repository shows the workdone of Harald Scheidl in Jupyter Notebook. 
 Some documents are directly imported from githubharald/SimpleHTR a github account of Herald Scheidl
 (https://github.com/githubharald/SimpleHTR)
-## Data Set:
+## 1. Data Set:
 Get IAM dataset
 1. Register at: http://www.fki.inf.unibe.ch/databases/iam-handwriting-database
 2. Download words.tgz 
@@ -24,15 +24,15 @@ Check if dir structure looks like this:
             ------...
             ----a02
             ----...
-## File Management Structure:
+## 2. File Management Structure:
 ![htr](./doc/FileHierarchy.PNG)
-            ### Inside Views of 'data/'
+###       1> Inside Views of 'data/'
 ![htr](./doc/data.PNG)
-            ### Inside Views of 'data/words/'
+###       2> Inside Views of 'data/words/'
 ![htr](./doc/data-words.PNG)
-            ### Inside Views of 'data/words/a01/'
+###       3> Inside Views of 'data/words/a01/'
 ![htr](./doc/data-words-a01.PNG)
-            ### Inside Views of 'data/words/a01/a01-000u/'
+###       4> Inside Views of 'data/words/a01/a01-000u/'
 ![htr](./doc/data-words-a01-a01-000u.PNG)
 # Steps to Follow:
      1.  Open "Train and Save a Model from Scratch.ipynb" file in Jupyter notebook and execute each cell serially.
