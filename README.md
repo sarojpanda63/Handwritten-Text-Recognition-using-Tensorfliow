@@ -34,7 +34,7 @@ Check if dir structure looks like this:
 ![htr](./doc/data-words-a01.PNG)
 ### d) Inside Views of 'data/words/a01/a01-000u/'
 ![htr](./doc/data-words-a01-a01-000u.PNG)
-# Steps to Follow:
+## 3. Steps to Follow:
      1.  Open "Train and Save a Model from Scratch.ipynb" file in Jupyter notebook and execute each cell serially.
          This will cause training of model and saving it inside 'model/' directory.
      2.  After training, check the 'model/' directory and make sure a three new file begining with name 'snapshot'
