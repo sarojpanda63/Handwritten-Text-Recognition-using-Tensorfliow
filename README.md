@@ -26,3 +26,8 @@ Check if dir structure looks like this:
             ----...
 ## File Management Structure:
 ![htr](./FileHierarchy.PNG)
+
+# Steps to Follow:
+    1.  Open "Train and Save a Model from Scratch.ipynb" file in Jupyter notebook and execute each cell serially. This will cause training of model and saving it inside 'model/' directory.
+    2.  After training, check the 'model/' directory and make sure a three new file begining with name 'snapshot' recently formed inside it.
+    3.  Open "Load and Infer the Pre-trained model.ipynb" file in Jupyter notebook and execute each cell serially. This will help us to load the model by importing the required snapshot*** file from 'model/' directory. It also help us to infer a handwritten image stored in 'data/' with a name 'test.png'.
