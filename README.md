@@ -1,2 +1,2 @@
-# Handwritten-Text-Recognition-using-Tensorfliow
+# Handwritten-Text-Recognition-using-Tensorflow
 This Repository copied from 
