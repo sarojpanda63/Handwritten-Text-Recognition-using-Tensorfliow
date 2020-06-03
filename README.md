@@ -27,7 +27,7 @@ Check if dir structure looks like this:
 ## File Management Structure:
 ![htr](./doc/FileHierarchy.PNG)
 ### inside data/
-![htr](./doc/data.PNGG)
+![htr](./doc/data.PNG)
 ### inside data/words/
 ![htr](./doc/data-words.PNG)
 ### inside data/words/a01/
