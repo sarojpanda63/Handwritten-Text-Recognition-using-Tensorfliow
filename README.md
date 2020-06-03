@@ -11,16 +11,16 @@ Get IAM dataset
 5. Create subdir words
 6. Put content (directories a01, a02, ...) of words.tgz into subdir words
 7. Run checkDirs.py for a rough check on the files
-Check if dir structure looks like this:
 
-                data
-                --test.png
-                --words.txt
-                --words
-                ----a01
-                ------a01-000u
-                --------a01-000u-00-00.png
-                --------...
-                ------...
-                ----a02
-                ----...
+Check if dir structure looks like this:
+            data
+            --test.png
+            --words.txt
+            --words
+            ----a01
+            ------a01-000u
+            --------a01-000u-00-00.png
+            --------...
+            ------...
+            ----a02
+            ----...
