@@ -13,6 +13,7 @@ Get IAM dataset
 7. Run checkDirs.py for a rough check on the files
 
 Check if dir structure looks like this:
+
             data
             --test.png
             --words.txt
