@@ -25,8 +25,15 @@ Check if dir structure looks like this:
             ----a02
             ----...
 ## File Management Structure:
-![htr](./FileHierarchy.PNG)
-
+![htr](./doc/FileHierarchy.PNG)
+### inside data/
+![htr](./doc/data.PNGG)
+### inside data/words/
+![htr](./doc/data-words.PNG)
+### inside data/words/a01/
+![htr](./doc/data-words-a01.PNG)
+### inside data/words/a01/a01-000u/
+![htr](./doc/data-words-a01-a01-000u.PNG)
 # Steps to Follow:
      1.  Open "Train and Save a Model from Scratch.ipynb" file in Jupyter notebook and execute each cell serially.
          This will cause training of model and saving it inside 'model/' directory.
