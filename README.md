@@ -25,3 +25,4 @@ Check if dir structure looks like this:
             ----a02
             ----...
 ## File Management Structure:
+![htr](./File Hierarchy.png)
