@@ -10,7 +10,6 @@ Get IAM dataset
 4. Put words.txt into this dir
 5. Create subdir words
 6. Put content (directories a01, a02, ...) of words.tgz into subdir words
-7. Run checkDirs.py for a rough check on the files
 
 Check if dir structure looks like this:
 
