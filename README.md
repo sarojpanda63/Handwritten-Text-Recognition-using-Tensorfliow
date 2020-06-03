@@ -26,13 +26,13 @@ Check if dir structure looks like this:
             ----...
 ## File Management Structure:
 ![htr](./doc/FileHierarchy.PNG)
-### inside data/
+            ### Inside Views of 'data/'
 ![htr](./doc/data.PNG)
-### inside data/words/
+            ### Inside Views of 'data/words/'
 ![htr](./doc/data-words.PNG)
-### inside data/words/a01/
+            ### Inside Views of 'data/words/a01/'
 ![htr](./doc/data-words-a01.PNG)
-### inside data/words/a01/a01-000u/
+            ### Inside Views of 'data/words/a01/a01-000u/'
 ![htr](./doc/data-words-a01-a01-000u.PNG)
 # Steps to Follow:
      1.  Open "Train and Save a Model from Scratch.ipynb" file in Jupyter notebook and execute each cell serially.
